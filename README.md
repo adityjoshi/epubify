@@ -1,4 +1,4 @@
-# PDF to EPUB
+# Epubify
 
 Simple CLI tool to convert PDF files to EPUB.
 
